@@ -3,7 +3,7 @@
 Story view for apps with stories.
 
 <p float="left">
-  
+
   <img src="https://i.ibb.co/Q8Wtw62/Screenshot-1584263003.png" width=400 />
   <img src="https://i.ibb.co/bz0R9bd/Screenshot-1584263008.png" width=400 />
   <img src="https://i.ibb.co/NrLSbZv/Screenshot-1584263018.png" width=400 />
@@ -41,9 +41,6 @@ Import the package into your code
 ```dart
 import "package:story_view/story_view.dart";
 ```
-
-Look inside `examples/example.dart` on how to use this library. You can copy
-and paste the code into your `main.dart` and run to have a quick look.
 
 ## Basics
 
