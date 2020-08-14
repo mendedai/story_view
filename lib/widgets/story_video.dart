@@ -84,6 +84,8 @@ class StoryVideoState extends State<StoryVideo> {
 
         playerController.initialize().then((v) {
           setState(() {});
+          // TODO expose volume to the storyController
+          playerController.setVolume(0.0);
           widget.storyController.play();
         });
 
